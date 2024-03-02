@@ -1,3 +1,2 @@
 # Este es el primer commit que realizo con git en clase con el profe...
-
-![Hebi]Foto de adi_ du: Https://www.pexels.com/es-es/foto/blanco-y-negro-animal-reptil-balanzas-13621773/
+![Hebi]Foto de Adi_ Du: https://www.pexels.com/es-es/foto/blanco-y-negro-animal-reptil-balanzas-13621773/
